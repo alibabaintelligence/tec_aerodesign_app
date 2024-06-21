@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "90359157542",
+    "firebase_url": "https://esp32-test-7f9ef-default-rtdb.firebaseio.com",
+    "project_id": "esp32-test-7f9ef",
+    "storage_bucket": "esp32-test-7f9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90359157542:android:a7db9eae9a0093ce52e7e7",
+        "android_client_info": {
+          "package_name": "com.example.tec_aerodesign_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihbvhJ_GZ1Gtbjdb_oAWzvuydPHm8t3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
